@@ -1,5 +1,6 @@
 # Full Stack Developer | NOW PAIN CLINIC
 
+![nowpain-gif](nowpain-demo-gif.gif)  
 [Download Video](nowpain-demo.mp4)
 
 During my time working at NOW Pain Clinic, I was responsible for modernizing the clinic’s patient data management system and building a more efficient interface for the staff.
