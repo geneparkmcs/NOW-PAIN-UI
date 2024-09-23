@@ -1,5 +1,10 @@
 # Full Stack Developer | NOW PAIN CLINIC
 
+<video width="400" controls>
+  <source src="nowpain-demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 During my time working at NOW Pain Clinic, I was responsible for modernizing the clinic’s patient data management system and building a more efficient interface for the staff.
 
 ## What I worked on:
