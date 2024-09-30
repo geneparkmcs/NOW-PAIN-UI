@@ -12,7 +12,7 @@ During my time working at NOW Pain Clinic, I was responsible for modernizing the
 
 - **Multi-Page Functionality**: I used **Flask** to connect multiple pages such as booking appointments, adding and editing patient information, and maintaining a calendar, all seamlessly linked to the SQL backend. This allowed the receptionists to perform a variety of tasks from a single, integrated interface.
 
-- **Back-End Integration**: I integrated the front-end interface with the back-end SQL database using **Psycopg** in Python, ensuring seamless communication between the user interface and the data storage system.
+- **Back-End Integration**: I integrated the front-end interface with the back-end SQL database using **Psycopg** in Python, ensuring seamless communication between the user interface and the data storage system. This also enabled and ensured data validation within SQL.  
 
 This project significantly improved the clinic’s data management efficiency and user experience for non-technical staff.
 
